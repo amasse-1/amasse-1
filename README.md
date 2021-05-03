@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony
-- 👀 I’m interested in anything involving programming
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in anything involving programming 
+- 🌱 I’m currently learning AWS and SQLite
 - 💞️ I’m looking to collaborate on interesting projects with interesting people
 - 📫 How to reach me anthony_masse@outlook.com
 
