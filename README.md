@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anthony
-- 👀 I’m interested in anything involving programming 
-- 🌱 I’m currently learning AWS and SQLite
+- 👀 I’m interested in so many things
+- 🌱 I’m currently learning AWS and SQL
 - 🤝 I’m looking to collaborate on interesting projects with interesting people
-- 📫 How to reach me anthony_masse@outlook.com
+- 📫 How to reach me: anthony_masse@outlook.com
 
 <!---
 amasse-1/amasse-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
