@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anthony
 - 👀 I’m interested in so many things
-- :blue_book: Studying to get my Master's in Computer Science
 - :sunny: Interesting in learning more about Data Analysis, Programming, and AI (Machine Learning and Computer Vision)!
 
 <!---
